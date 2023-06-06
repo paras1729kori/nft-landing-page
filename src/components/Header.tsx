@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="max-w-sm flex mx-auto justify-between md:max-w-2xl lg:max-w-4xl xl:max-w-6xl">
+    <div className="max-w-xs flex mx-auto justify-between md:max-w-2xl lg:max-w-4xl xl:max-w-6xl">
       <div className="font-bold text-xl text-center text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-violet-600">
         developedbypk
       </div>

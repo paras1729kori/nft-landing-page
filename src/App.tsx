@@ -1,6 +1,5 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-import Companies from "./components/Companies";
 import TrendingNFTs from "./components/TrendingNFTs";
 import Instructions from "./components/Instructions";
 import Footer from "./components/Footer";
@@ -13,7 +12,6 @@ const App = () => {
         <Hero />
       </div>
       <div className="gradient-bg-two">
-        <Companies />
         <TrendingNFTs />
       </div>
       <div className="gradient-bg-three">
