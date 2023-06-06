@@ -5,7 +5,7 @@ import ape4 from "../assets/ape-4.gif";
 
 const Hero = () => {
   return (
-    <div className="max-w-xs flex flex-col gap-10 text-center mx-auto mt-10 md:max-w-xl lg:max-w-3xl lg:flex-row lg:text-left lg:items-center xl:max-w-6xl">
+    <div className="max-w-xs flex flex-col gap-10 text-center mx-auto mt-16 md:max-w-xl lg:max-w-3xl lg:flex-row lg:text-left lg:items-center xl:max-w-7xl">
       <div className="lg:w-7/12">
         <div>
           <h1 className="text-3xl font-semibold md:text-5xl lg:6xl">
